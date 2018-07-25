@@ -42,3 +42,8 @@ Steps:
 - Open settings, and select project name
   - Then select Project Interpeter
     - If Python 3.6 is not available, do a show all, and either create one, or select from there.
+- Install missing packages from interpeter window (seen above)
+- download copy of PyFOS_initial_testing
+- unpack and validate that "pyfos_testing.py" is in the project folder.
+- open "pyfos_testing.py" and validate that all packages show green or unused. (no red... if there is... install that package)
+## Ready to debug/Run
