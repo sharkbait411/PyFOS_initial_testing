@@ -2,12 +2,14 @@
 
 ## Purpose
 
-This is an initial login script and grab basic switch information with the PyFOS class on a Brocade Fibre Channel Switch or Director
+This is an initial login script and grab basic switch information with the PyFOS class on a Brocade Fibre Channel Switch or Director.
 
 ## Version
 - Python 3.6
 
 ## Packages Installed
+```bazaar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 - Package List:
 Package			          Version		    Latest
 Inject			          3.3.1		      3.3.2
@@ -27,3 +29,15 @@ setuptools		        28.8.0		    40.0.0
 six			              1.11.0		    1.11.0
 urllib3			          1.23		      1.23
 xmltodict		          0.11.0		    0.11.0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+```
+
+## Initial Setup and Build of Python Work
+This script was built with the community application "PyCharm". This is a free application that works on Mac OS, Windows, and Linux.
+
+Steps:
+- Install PyCharm
+- Create new Project in PyCharm
+- Open settings, and select project name
+- - Then select Project Interpeter
+- - - If Python 3.6 is not available, do a show all, and either create one, or select from there.
