@@ -40,5 +40,5 @@ Steps:
 - Install PyCharm
 - Create new Project in PyCharm
 - Open settings, and select project name
-- - Then select Project Interpeter
-- - - If Python 3.6 is not available, do a show all, and either create one, or select from there.
+  - Then select Project Interpeter
+    - If Python 3.6 is not available, do a show all, and either create one, or select from there.
