@@ -11,9 +11,9 @@ import sys
 
 
 def main():
-    ip_address = '10.0.0.1'  # ip address of switch
-    username = 'admin'  # username of switch
-    password = 'admin'  # password of switch
+    ip_address = '10.0.0.1'  # ip address of switch - edit for IP of switch
+    username = 'admin'  # username of switch - edit for username of switch
+    password = 'admin'  # password of switch - edit for password of switch
 
     # logs into the switch and creates an active session with the switch
     session = pyfos_auth.login(username=username,
