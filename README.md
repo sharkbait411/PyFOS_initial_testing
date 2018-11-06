@@ -16,9 +16,6 @@ Package			Version		Latest
 Inject			3.3.1		3.3.2
 certifi			2018.4.16	2018.4.16
 chardet			3.0.4		3.0.4
-cloudshell-core		2.1.153		2.2.180
-cloudshell-pdu-core	1.0.21		1.0.21
-cloudshell-shell-core	2.3.4		4.0.242
 colorconsole		0.7.2		0.7.2
 idna			2.7		2.7
 mock			2.0.0		2.0.0
